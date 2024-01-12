@@ -1,2 +1,2 @@
-# belajar_guthub
+# belajar_github
 ini adalah latihan github dari my skill
